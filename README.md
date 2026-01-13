@@ -1,2 +1,2 @@
 # My-Progress-Codes
-All of my progress in coding journey Iam uploading my code here
+Every Code which I've been learning throughout my coding journey I would be uploading It here on this Github repo
