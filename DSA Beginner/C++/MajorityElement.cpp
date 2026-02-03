@@ -31,4 +31,5 @@ int main() {
     int majority = majorityElement(nums);
     cout << "Majority Element: " << majority << endl;
     return 0;
+
 }
